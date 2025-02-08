@@ -11,6 +11,15 @@ An interactive **Excel dashboard** analyzing delivery agent performance, custome
 ✅ **Location-Based Trends**: Best & worst-performing locations  
 ✅ **Interactive Slicers**: Filter by Location, Agent Name, Order Type  
 
+# ❓❓ Questions (KPI’s)
+•	Who are the top-performing agents based on average rating?
+•	Which agents have the fastest average delivery times?
+•	What are the most common types of customer feedback?
+•	Which order types have the fastest delivery times?
+•	How does order type influence customer ratings?
+•	Which locations have the best-rated delivery agents? 
+•	How does location affect customer feedback type and ratings?
+
 ## 📁 Files Included  
 - **Dashboard.xlsx** → The interactive Excel dashboard  
 - **README.md** → Project documentation  
@@ -35,15 +44,4 @@ An interactive **Excel dashboard** analyzing delivery agent performance, custome
 📌 **Essentials & Grocery orders take longer to deliver than Pharmacy items.**  
 📌 **Negative feedback is distributed across locations, indicating areas for improvement.**  
 
-## 💡 Future Improvements  
-- 📈 **Trend Analysis** for monthly delivery trends  
-- 🌍 **Geospatial Mapping** to visualize location-wise performance  
-- 🔄 **Automated Reports** using Power BI  
 
-## 🤝 Contributing  
-Want to improve this dashboard? Feel free to fork the repo & submit a pull request!  
-
----
-
-**📢 Contact & Support**  
-For any queries or feedback, reach out via GitHub Issues or Email. 🚀  
