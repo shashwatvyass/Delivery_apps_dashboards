@@ -19,7 +19,7 @@ An interactive **Excel dashboard** analyzing delivery agent performance, custome
 - **Data Analysis** (Formulas, Data Cleaning)  
 
 ## 📸 Screenshot  
-![Dashboard Preview](images/dashboard.png)  
+[![Dashboard Preview](images/dashboard.png) ](https://github.com/shashwatvyass/Delivery_apps_dashboards/blob/main/Screenshot%202025-02-08%20150130.png) 
 
 ## 🚀 How to Use  
 1. **Download the Excel file** from this repository.  
